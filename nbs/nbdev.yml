@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb_dev_ex"
+  site-url: "https://hashd2035.github.io/nb_dev_ex"
+  description: "This is an exercise"
+  repo-branch: main
+  repo-url: "https://github.com/hashd2035/nb_dev_ex"
